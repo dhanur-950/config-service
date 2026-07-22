@@ -1,0 +1,9 @@
+spring:
+  application:
+  name : account-service
+
+server
+  port:9999
+
+billing:
+ app: This is account-serice app  
