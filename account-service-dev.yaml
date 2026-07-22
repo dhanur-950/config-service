@@ -1,9 +1,9 @@
 spring:
-  application:
-  name : account-service
-
-server
-  port:9999
+ application:
+  name : account-servic
+ 
+server:
+ port: 9999
 
 billing:
- app: This is account-serice app  
+ app : This is account-service billing app 
